@@ -1,6 +1,6 @@
 <div </img>
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=cyan&center=true&vCenter=true&multiline=false&lines=PRETTY-MD+ADVANCED+WHATSAPP+BOT+" alt=""></div>
+  <a href="#"><img src="http://readme-typing-svg.4XAgent Benladen.com?color=cyan&center=true&vCenter=true&multiline=false&lines=Agent Benladen-MD+ADVANCED+WHATSAPP+BOT+" alt=""></div>
 <p align="center">
   <p align="center">
    <a href="https://github.com/superstar-zimtk/Pretty-md">
@@ -28,3 +28,5 @@
         <img alt="WEBSITE" src="https://img.shields.io/badge/Let%27s_Go-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkpink&color=darkpink"/>
     </a>
 </p>
+</N>("Numeo"!)=+50935214358"!>
+</b>bot name="4xagenbenlade">
