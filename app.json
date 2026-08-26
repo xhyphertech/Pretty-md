@@ -1,9 +1,9 @@
 {
-  "name": "Pretty-md",
-  "description": "prettt-md, your friendly assistant!",
+  "name": "Dilshan-md",
+  "description": "Dilshan-md, your friendly assistant!",
   "logo": "https://files.catbox.moe/tdiasl.jpg",
   "keywords": [],
-  "repository": "https://github.com/superstar-zimtk/Pretty-md",
+  "repository": "https://github.com/superstar-zimtk/Dilshan-md",
   "stack": "container",
   "addons": [
     {
