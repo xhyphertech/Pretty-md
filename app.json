@@ -4,6 +4,14 @@
   "logo": "https://files.catbox.moe/tdiasl.jpg",
   "keywords": [],
   "repository": "https://github.com/xhyphertech/Pretty-md",
+  "keywords": [
+    "whatsapp",
+    "baileys",
+    "bot",
+    "node",
+    "md",
+    "june-ultra"
+  ],
   "stack": "heroku-26",
   "addons": [
     {
