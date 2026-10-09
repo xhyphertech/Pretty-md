@@ -10,7 +10,7 @@
     "bot",
     "node",
     "md",
-    "june-ultra"
+    "Pretty-md"
   ],
   "stack": "heroku-26",
   "addons": [
