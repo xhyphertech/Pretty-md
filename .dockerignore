@@ -1,0 +1,19 @@
+# Never bake these into the image
+node_modules
+.git
+.github
+.env
+.env.*
+.update-backup
+database
+session
+data
+test
+package-lock.json
+yarn.lock
+README.md
+app.json
+Procfile
+railway.json
+cx-platform.json
+.obfuscate-cache.json
