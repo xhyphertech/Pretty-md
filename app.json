@@ -4,7 +4,7 @@
   "logo": "https://files.catbox.moe/tdiasl.jpg",
   "keywords": [],
   "repository": "https://github.com/xhyphertech/Pretty-md",
-  "stack": "container",
+  "stack": "heroku-26",
   "addons": [
     {
       "plan": "heroku-postgresql"
