@@ -17,3 +17,4 @@ Procfile
 railway.json
 cx-platform.json
 .obfuscate-cache.json
+heroku.yml
