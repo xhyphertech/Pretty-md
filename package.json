@@ -1,9 +1,8 @@
 {
   "name": "Pretty-md",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "description": "WhatsApp Bot",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "start": "node index.js",
     "start:optimized": "node --max-old-space-size=512 --optimize-for-size --gc-interval=100 index.js",
@@ -13,7 +12,7 @@
     "start:fresh": "npm run reset-session && npm start",
     "install:panel": "npm install --legacy-peer-deps",
     "install:force": "npm install --force",
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "node --test tests/*.test.js",
     "docker:build": "docker build -t pretty-md ."
   },
   "keywords": [
@@ -22,7 +21,7 @@
   "author": "superstar",
   "license": "ISC",
   "allowScripts": {
-    "@itsliaaa/baileys": true,
+    "@xhyphertech/baileys": true,
     "better-sqlite3": true,
     "es5-ext": true,
     "protobufjs": true,
@@ -32,9 +31,9 @@
     "@adiwajshing/keyed-db": "^0.2.4",
     "@ffmpeg/ffmpeg": "^0.12.15",
     "@hapi/boom": "^10.0.1",
-    "@itsliaaa/baileys": "^0.3.18-final",
+    "@xhyphertech/baileys": "0.4.0",
     "@types/node": "^20.0.0",
-    "@whiskeysockets/baileys": "npm:@itsliaaa/baileys@^0.3.18-final",
+    "@whiskeysockets/baileys": "npm:@xhyphertech/baileys@0.4.0",
     "adm-zip": "^0.5.16",
     "awesome-phonenumber": "^5.9.0",
     "axios": "^1.20.0",
@@ -58,10 +57,9 @@
     "libphonenumber-js": "^1.11.18",
     "libsignal": "^2.0.1",
     "link-preview-js": "^3.0.5",
-    "mathjs": "^15.1.0",
-    "moment": "^2.30.1",
-    "moment-timezone": "^0.5.48",
-    "mumaker": "^2.0.0",   
+    "mathjs": "^15.1.1",
+    "moment-timezone": "^0.5.43",
+    "mumaker": "^2.0.0",
     "node-cache": "^5.1.2",
     "node-fetch": "^2.7.0",
     "node-id3": "^0.2.3",
@@ -96,7 +94,7 @@
     "ytdl-core": "^4.11.5"
   },
   "optionalDependencies": {
-    "better-sqlite3": "^11.10.0"
+    "better-sqlite3": "^12.11.1"
   },
   "overrides": {
     "jimp": "^1.6.0",
