@@ -86,6 +86,7 @@
     "translate-google-api": "^1.0.4",
     "webp-converter": "latest",
     "ws": "^8.17.1",
+    "xhypher-btns": ^1.0.2",
     "yargs": "^17.6.0",
     "yargs-parser": "^21.1.1",
     "youtube-yts": "^2.0.0",
